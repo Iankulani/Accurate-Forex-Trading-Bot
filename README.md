@@ -1,6 +1,6 @@
 ## Accurate  Forex Trading
 
-## Hpw to clone the repo
+## How to clone the repo
 
 git clone https://github.com/Iankulani/Accurate-Forex-Trading-Bot.git
 
